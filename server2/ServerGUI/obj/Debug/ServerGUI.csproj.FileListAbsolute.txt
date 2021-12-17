@@ -1,0 +1,72 @@
+C:\Users\goldm_000\Desktop\Project\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe.config
+C:\Users\goldm_000\Desktop\Project\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe
+C:\Users\goldm_000\Desktop\Project\ServerGUI\ServerGUI\bin\Debug\ServerGUI.pdb
+C:\Users\goldm_000\Desktop\Project\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csprojResolveAssemblyReference.cache
+C:\Users\goldm_000\Desktop\Project\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Form1.resources
+C:\Users\goldm_000\Desktop\Project\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+C:\Users\goldm_000\Desktop\Project\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csproj.GenerateResource.Cache
+C:\Users\goldm_000\Desktop\Project\ServerGUI\ServerGUI\obj\Debug\ServerGUI.exe
+C:\Users\goldm_000\Desktop\Project\ServerGUI\ServerGUI\obj\Debug\ServerGUI.pdb
+E:\Институт\Актуальное\ОС\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe.config
+E:\Институт\Актуальное\ОС\ServerGUI\ServerGUI\obj\Debug\ServerGUI.exe
+E:\Институт\Актуальное\ОС\ServerGUI\ServerGUI\obj\Debug\ServerGUI.pdb
+E:\Институт\Актуальное\ОС\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csprojResolveAssemblyReference.cache
+E:\Институт\Актуальное\ОС\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Form1.resources
+E:\Институт\Актуальное\ОС\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+E:\Институт\Актуальное\ОС\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csproj.GenerateResource.Cache
+E:\Институт\Актуальное\ОС\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe
+E:\Институт\Актуальное\ОС\ServerGUI\ServerGUI\bin\Debug\ServerGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe.config
+E:\Институт\Актуальное\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\ServerGUI\ServerGUI\bin\Debug\ServerGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csprojResolveAssemblyReference.cache
+E:\Институт\Актуальное\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Form1.resources
+E:\Институт\Актуальное\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+E:\Институт\Актуальное\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csproj.GenerateResource.Cache
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe.config
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\bin\Debug\ServerGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csprojResolveAssemblyReference.cache
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Form1.resources
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csproj.GenerateResource.Cache
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe.config
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\bin\Debug\ServerGUI.pdb
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csprojResolveAssemblyReference.cache
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Form1.resources
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csproj.GenerateResource.Cache
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.exe
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.pdb
+C:\Users\Дмитрий\iCloudDrive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe.config
+C:\Users\Дмитрий\iCloudDrive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe
+C:\Users\Дмитрий\iCloudDrive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\bin\Debug\ServerGUI.pdb
+C:\Users\Дмитрий\iCloudDrive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\iCloudDrive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Form1.resources
+C:\Users\Дмитрий\iCloudDrive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+C:\Users\Дмитрий\iCloudDrive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\iCloudDrive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.exe
+C:\Users\Дмитрий\iCloudDrive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Debug\ServerGUI.pdb
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe.config
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\bin\Debug\ServerGUI.pdb
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Form1.resources
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\obj\Debug\ServerGUI.exe
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\obj\Debug\ServerGUI.pdb
+D:\OS_KR\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe.config
+D:\OS_KR\ServerGUI\ServerGUI\bin\Debug\ServerGUI.exe
+D:\OS_KR\ServerGUI\ServerGUI\bin\Debug\ServerGUI.pdb
+D:\OS_KR\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csproj.AssemblyReference.cache
+D:\OS_KR\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Form1.resources
+D:\OS_KR\ServerGUI\ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+D:\OS_KR\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csproj.GenerateResource.cache
+D:\OS_KR\ServerGUI\ServerGUI\obj\Debug\ServerGUI.csproj.CoreCompileInputs.cache
+D:\OS_KR\ServerGUI\ServerGUI\obj\Debug\ServerGUI.exe
+D:\OS_KR\ServerGUI\ServerGUI\obj\Debug\ServerGUI.pdb

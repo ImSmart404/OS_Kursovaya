@@ -1,0 +1,10 @@
+D:\OS_KR\Client_Mikhaylov\Client_Mikhaylov\bin\Debug\Client_Mikhaylov.exe.config
+D:\OS_KR\Client_Mikhaylov\Client_Mikhaylov\bin\Debug\Client_Mikhaylov.exe
+D:\OS_KR\Client_Mikhaylov\Client_Mikhaylov\bin\Debug\Client_Mikhaylov.pdb
+D:\OS_KR\Client_Mikhaylov\Client_Mikhaylov\obj\Debug\Client_Mikhaylov.csproj.AssemblyReference.cache
+D:\OS_KR\Client_Mikhaylov\Client_Mikhaylov\obj\Debug\Client_Mikhaylov.Form1.resources
+D:\OS_KR\Client_Mikhaylov\Client_Mikhaylov\obj\Debug\Client_Mikhaylov.Properties.Resources.resources
+D:\OS_KR\Client_Mikhaylov\Client_Mikhaylov\obj\Debug\Client_Mikhaylov.csproj.GenerateResource.cache
+D:\OS_KR\Client_Mikhaylov\Client_Mikhaylov\obj\Debug\Client_Mikhaylov.csproj.CoreCompileInputs.cache
+D:\OS_KR\Client_Mikhaylov\Client_Mikhaylov\obj\Debug\Client_Mikhaylov.exe
+D:\OS_KR\Client_Mikhaylov\Client_Mikhaylov\obj\Debug\Client_Mikhaylov.pdb

@@ -1,0 +1,10 @@
+D:\OS_KR\server2\ServerGUI\bin\Debug\ServerGUI.exe.config
+D:\OS_KR\server2\ServerGUI\bin\Debug\ServerGUI.exe
+D:\OS_KR\server2\ServerGUI\bin\Debug\ServerGUI.pdb
+D:\OS_KR\server2\ServerGUI\obj\Debug\server2.csproj.AssemblyReference.cache
+D:\OS_KR\server2\ServerGUI\obj\Debug\server2.Form2.resources
+D:\OS_KR\server2\ServerGUI\obj\Debug\ServerGUI.Properties.Resources.resources
+D:\OS_KR\server2\ServerGUI\obj\Debug\server2.csproj.GenerateResource.cache
+D:\OS_KR\server2\ServerGUI\obj\Debug\server2.csproj.CoreCompileInputs.cache
+D:\OS_KR\server2\ServerGUI\obj\Debug\ServerGUI.exe
+D:\OS_KR\server2\ServerGUI\obj\Debug\ServerGUI.pdb

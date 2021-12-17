@@ -1,0 +1,62 @@
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe.config
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.Form1.resources
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.Properties.Resources.resources
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.csproj.GenerateResource.Cache
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.csprojResolveAssemblyReference.cache
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe.config
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.pdb
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.csprojResolveAssemblyReference.cache
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.Form1.resources
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.Properties.Resources.resources
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.csproj.GenerateResource.Cache
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.exe
+Z:\iCloud Drive\6-й семестр\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.pdb
+C:\Users\anoon\Desktop\Курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe.config
+C:\Users\anoon\Desktop\Курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe
+C:\Users\anoon\Desktop\Курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.pdb
+C:\Users\anoon\Desktop\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.csprojResolveAssemblyReference.cache
+C:\Users\anoon\Desktop\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.Form1.resources
+C:\Users\anoon\Desktop\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.Properties.Resources.resources
+C:\Users\anoon\Desktop\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.csproj.GenerateResource.Cache
+C:\Users\anoon\Desktop\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.exe
+C:\Users\anoon\Desktop\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.pdb
+Z:\iCloud Drive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe.config
+Z:\iCloud Drive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe
+Z:\iCloud Drive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.pdb
+Z:\iCloud Drive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.csprojResolveAssemblyReference.cache
+Z:\iCloud Drive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.Form1.resources
+Z:\iCloud Drive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.Properties.Resources.resources
+Z:\iCloud Drive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.csproj.GenerateResource.Cache
+Z:\iCloud Drive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.exe
+Z:\iCloud Drive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.pdb
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe.config
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\bin\Release\ServerGUI.pdb
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.Form1.resources
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.Properties.Resources.resources
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.exe
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\ОС\Курсовик\ServerGUI\ServerGUI\obj\Release\ServerGUI.pdb
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\Балашов\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe.config
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\Балашов\ServerGUI\ServerGUI\obj\Release\ServerGUI.exe
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\Балашов\ServerGUI\ServerGUI\obj\Release\ServerGUI.pdb
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\Балашов\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\Балашов\ServerGUI\ServerGUI\bin\Release\ServerGUI.pdb
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\Балашов\ServerGUI\ServerGUI\obj\Release\ServerGUI.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\Балашов\ServerGUI\ServerGUI\obj\Release\ServerGUI.Form1.resources
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\Балашов\ServerGUI\ServerGUI\obj\Release\ServerGUI.Properties.Resources.resources
+C:\Users\Дмитрий\iCloudDrive\2017год свои сем\Балашов\ServerGUI\ServerGUI\obj\Release\ServerGUI.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe.config
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\obj\Release\ServerGUI.exe
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\obj\Release\ServerGUI.pdb
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\bin\Release\ServerGUI.exe
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\bin\Release\ServerGUI.pdb
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\obj\Release\ServerGUI.Form1.resources
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\obj\Release\ServerGUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\Балашов\ServerGUI\ServerGUI\obj\Release\ServerGUI.csproj.GenerateResource.Cache
